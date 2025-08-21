@@ -1,0 +1,16 @@
+{
+  "name": "goit-js-hw-4-node",
+  "version": "1.0.0",
+  "description": "this is my first project on node-js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Nazar",
+  "license": "ISC"
+}
+
